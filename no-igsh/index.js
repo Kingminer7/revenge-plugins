@@ -1,0 +1,1 @@
+(function(n,t,r){"use strict";const s=t.findByProps("sendMessage","receiveMessage"),c=[r.before("sendMessage",s,function(e){e[1].content=e[1].content.replace(/\?igsh=[^&\s]*/g,"")})];var o={onUnload:function(){c.forEach(function(e){return e()})}};return n.default=o,Object.defineProperty(n,"__esModule",{value:!0}),n})({},vendetta.metro,vendetta.patcher);
