@@ -9,6 +9,6 @@
     ],
     "main": "src/index.ts",
     "vendetta": {
-        "icon": "ic_badge_staff"
+        "icon": "img_account_sync_instagram_white"
     }
 }
