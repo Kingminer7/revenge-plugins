@@ -1,0 +1,14 @@
+{
+    "name": "No igsh",
+    "description": "Removes doxxing from Instagram shares.",
+    "authors": [
+        {
+            "name": "kam",
+            "id": "1254538148755537971"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
