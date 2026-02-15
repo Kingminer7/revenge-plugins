@@ -1,0 +1,19 @@
+{
+  "name": "Realmoji (modified)",
+  "description": "Makes freemojis real",
+  "authors": [
+    {
+      "name": "redstonekasi",
+      "id": "265064055490871297"
+    },
+    {
+      "name": "kam",
+      "id": "1254538148755537971"
+    }
+
+  ],
+  "main": "src/index.tsx",
+  "vendetta": {
+    "icon": "ic_emoji_24px"
+  }
+}
